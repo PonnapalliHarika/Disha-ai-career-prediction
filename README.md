@@ -174,4 +174,4 @@ Disha AI successfully demonstrates how Artificial Intelligence and Machine Learn
 The system provides a scalable, intelligent, and user‑friendly solution to reduce career confusion and improve employability.
 
 🌐 Live Application
-👉 https://disha-ai-career-prediction-xxwiet8tmmyusgkjkbhytj.streamlit.app/
+👉 https://disha-ai-career-prediction-fnyrtpyttldbrbgljveifu.streamlit.app/
