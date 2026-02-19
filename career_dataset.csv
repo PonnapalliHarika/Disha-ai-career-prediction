@@ -1,0 +1,24 @@
+Stream,Title,Description,Skills,Technology Skills,Education
+CSE,Data Scientist,Analyze data and build predictive models,Data analysis machine learning statistics,Python SQL Pandas NumPy TensorFlow,6
+CSE,Software Developer,Develop software applications and systems,Programming problem solving algorithms,Java Python Git SQL,6
+CSE,Web Developer,Build websites and web applications,Frontend backend development,HTML CSS JavaScript React Node,6
+CSE,AI Engineer,Develop AI systems and deep learning models,Artificial intelligence neural networks,Python TensorFlow PyTorch AWS,7
+CSE,Cyber Security Analyst,Protect systems from cyber threats,Network security risk assessment,Linux Python SQL Wireshark,6
+CSE,Cloud Engineer,Manage cloud infrastructure and DevOps pipelines,Cloud computing automation,AWS Azure Docker Kubernetes Linux,6
+
+ECE,Embedded Systems Engineer,Design microcontroller-based systems,Embedded systems circuit design,Embedded C Microcontrollers MATLAB,6
+ECE,Communication Engineer,Work on communication networks and signal processing,Signal processing telecom,MATLAB Networking RF Design,6
+
+EEE,Electrical Engineer,Design and maintain electrical systems,Power systems electrical machines,PLC MATLAB Power Systems,6
+EEE,Power Systems Engineer,Work on renewable and high voltage systems,Renewable energy grid systems,SCADA MATLAB Power Systems,7
+
+CIVIL,Civil Engineer,Plan and execute construction projects,Construction planning structural design,AutoCAD Surveying Structural Analysis,6
+CIVIL,Structural Engineer,Design safe building structures,Structural modeling building materials,ETABS AutoCAD STAAD,7
+
+COMMERCE,Accountant,Manage financial records and taxation,Accounting auditing taxation,Tally GST MS Excel,6
+COMMERCE,Financial Analyst,Analyze financial data and investments,Financial modeling market analysis,Excel Financial Modeling Power BI,7
+COMMERCE,Marketing Manager,Plan marketing campaigns and strategies,Brand management consumer analysis,Digital Marketing SEO Analytics,6
+
+ARTS,Graphic Designer,Create visual content and branding materials,Creative design visual storytelling,Photoshop Illustrator Canva,6
+ARTS,Content Writer,Write blogs and digital content,Creative writing editing,SEO Blogging MS Word,6
+ARTS,Media Specialist,Produce and edit media content,Video production storytelling,Premiere Pro After Effects Photoshop,6
