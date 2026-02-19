@@ -156,7 +156,9 @@ Access via live URL
 Harika Ponnapalli – Team Lead
 
 Majji Poojitha – Team Member
-
+Akshaya- Team Member
+Sravanthi- Team Member
+Santosi- Team Member
 
 🔮 Future Enhancements
 Add personality assessment questionnaires
